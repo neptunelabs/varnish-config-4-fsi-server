@@ -2,7 +2,7 @@
 # Start rules
 ###
 
-include "recv.start.vcl";
+include "./recv.start.vcl";
 
 ###
 # NeptuneLabs general rules
